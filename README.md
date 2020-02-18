@@ -3,4 +3,5 @@
 
 预览:
 ![image](https://github.com/TheDawnCc/Sokaban/blob/master/Preview/PreviewImg2.jpg)
-![mp4](https://github.com/TheDawnCc/Sokaban/blob/master/Preview/PreviewVideo.mp4)
+![image](https://github.com/TheDawnCc/Sokaban/blob/master/Preview/gif1.mp4)
+![image](https://github.com/TheDawnCc/Sokaban/blob/master/Preview/gif2.mp4)
